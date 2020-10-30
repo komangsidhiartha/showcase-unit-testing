@@ -1,6 +1,6 @@
-# shopnbuy
+# showcase-unit-testing
 
-A new Flutter project.
+A Flutter project to lear unit testing tutorial on https://www.raywenderlich.com
 
 ## Getting Started
 
